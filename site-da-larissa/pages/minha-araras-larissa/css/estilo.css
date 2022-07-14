@@ -1,0 +1,29 @@
+.maintitle {
+    font-size: 180px;
+    text-align: center;
+    font-family: Arial,helvetica, sans-serif;
+    color: blueviolet;
+}
+.corpo {
+    font-size:48px;
+    text-align: center;
+    font-family: Arial, helvetica,sans-serif;
+}
+.corpo1{
+    font-size: 24px;
+    text-align: center;
+    font-family: Arial,helvetica, sans-serif;
+    color: black;
+
+}
+.titles {
+    font-size:100px;
+    text-align: center;
+    font-family:Arial,helvetica, sans-serif;
+}
+.rodape{
+    font-size:100px;
+    text-align: center;
+    font-family:Arial,helvetica, sans-serif;
+}
+
